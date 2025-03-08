@@ -8,9 +8,7 @@
 
 I'm a **Full-Stack Web Developer** 👨‍💻 and an aspiring **Editor**, currently pursuing a **B.Sc. Hons in Information Technology** at the **University of Moratuwa** 🎓.  
 
-<br>  
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d746b28c26d0b1a7a7b875d8a3cba8b4f28eb7c4f4b9f2ad253ba40a6bb0daca/68747470733a2f2f7777772e6461746f6f6e2e636f6d2f696d616765732f6e6577736c65747465722f646576656c6f706572732d776f726c64636f64696e672d61692d67702d312e77656270">  
+<br> 
 
 - 🔭 I’m currently working on:  
   - A **Full-Stack Web Application** for **Tiny Treasures**  
@@ -22,8 +20,6 @@ I'm a **Full-Stack Web Developer** 👨‍💻 and an aspiring **Editor**, curre
 - 💬 Ask me about:  
   - **Web Development** (Frontend & Backend)  
   - **JavaScript & PHP**  
-
-- ⚡ Fun fact: I love **coding** and **video editing** equally 🎬💻!  
 
 ---
 
