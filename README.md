@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tishanth-07&color=blueviolet&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/Tishanth-07?label=Follow&style=social)](https://github.com/Tishanth-07)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Tishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Tishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tishanth-sivakumar-61479a267/)](https://www.linkedin.com/in/tishanth-sivakumar-61479a267/)  
 
 ---
 
@@ -66,8 +66,7 @@ I'm a **Full-Stack Web Developer** 👨‍💻 and an aspiring **Editor**, curre
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://www.linkedin.com/in/tishanth-sivakumar-61479a267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/tishanth-sivakumar-61479a267/)](https://www.linkedin.com/in/tishanth-sivakumar-61479a267/)  
 
 ---
 
