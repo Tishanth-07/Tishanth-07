@@ -3,65 +3,6 @@
 </p>
 
 <p align="center">
-  <!-- SVG Animation: Code-to-Success Graph -->
-  <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      /* Animation for the progress graph */
-      .graph-line {
-        stroke: #059669;
-        stroke-width: 4;
-        fill: none;
-        stroke-dasharray: 1000;
-        stroke-dashoffset: 1000;
-        animation: drawGraph 3s ease-in-out forwards;
-      }
-      @keyframes drawGraph {
-        to { stroke-dashoffset: 0; }
-      }
-      /* Animation for typing code effect */
-      .code-text {
-        font-family: 'Courier New', monospace;
-        font-size: 14px;
-        fill: #1E3A8A;
-        animation: typeCode 2s steps(30) forwards;
-        opacity: 0;
-      }
-      @keyframes typeCode {
-        0% { opacity: 0; }
-        50% { opacity: 1; }
-        100% { opacity: 1; }
-      }
-      /* Pulsing dots for activity effect */
-      .dot {
-        fill: #DB2777;
-        animation: pulse 1.5s infinite;
-      }
-      @keyframes pulse {
-        0% { transform: scale(1); opacity: 1; }
-        50% { transform: scale(1.5); opacity: 0.7; }
-        100% { transform: scale(1); opacity: 1; }
-      }
-    </style>
-    <!-- Background Grid -->
-    <rect width="400" height="200" fill="#F3F4F6"/>
-    <g>
-      <line x1="40" y1="160" x2="360" y2="160" stroke="#E5E7EB" stroke-width="1"/>
-      <line x1="40" y1="120" x2="360" y2="120" stroke="#E5E7EB" stroke-width="1"/>
-      <line x1="40" y1="80" x2="360" y2="80" stroke="#E5E7EB" stroke-width="1"/>
-      <line x1="40" y1="40" x2="360" y2="40" stroke="#E5E7EB" stroke-width="1"/>
-    </g>
-    <!-- Progress Graph -->
-    <polyline class="graph-line" points="40,160 100,120 200,80 300,40 360,20"/>
-    <!-- Activity Dots -->
-    <circle class="dot" cx="100" cy="120" r="5"/>
-    <circle class="dot" cx="200" cy="80" r="5"/>
-    <circle class="dot" cx="300" cy="40" r="5"/>
-    <!-- Code Typing Effect -->
-    <text x="40" y="180" class="code-text">Building the future, one line of code at a time...</text>
-  </svg>
-</p>
-
-<p align="center">
   <a href="https://github.com/Tishanth-07">
     <img src="https://komarev.com/ghpvc/?username=Tishanth-07&color=059669&style=flat-square" alt="Profile Views"/>
   </a>
