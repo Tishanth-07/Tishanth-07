@@ -18,42 +18,43 @@
 </p>
 
 ---
+<h1 align="center">Tishanth Sivakumar</h1>
+<h2 align="center">Software Engineer Internship Enthusiast</h2>
 
-# 👨‍💻 Tishanth Sivakumar | Aspiring Software Engineer
+I am an enthusiastic Information Technology undergraduate at the University of Moratuwa, passionate about developing innovative and scalable web and mobile applications. With hands-on experience in building secure, user-centric, and modern solutions through academic and collaborative projects, I strive to combine creativity with technical precision.
 
-<p align="center">
-  <em>Passionate about building innovative web and mobile solutions, eager to contribute as a Software Engineer Intern while pursuing a B.Sc. (Hons) in Information Technology</em>
-</p>
+Driven by continuous learning and a problem-solving mindset, I am seeking a Software Engineer Internship to contribute to real-world projects, collaborate with dynamic teams, and advance my professional growth in the IT industry.
 
-I am an enthusiastic **Information Technology undergraduate** at the **University of Moratuwa**, actively seeking **Software Engineer Internship** opportunities to apply my skills in web and mobile development. Through academic and collaborative projects, I have gained hands-on experience in building secure, user-centric applications using modern frameworks. My dedication to learning, creative problem-solving, and agile practices drives me to create impactful solutions. I am eager to join a dynamic IT team to gain industry experience, contribute to real-world projects, and grow as a software engineer.
+## 🚀 Current Focus
+- Seeking a **Software Engineer** or **Full-Stack Development Internship** to gain hands-on experience in the IT industry.  
+- Focused on enhancing technical expertise, embracing **continuous learning**, and applying **innovative solutions** to real-world challenges.
 
-- 🔍 **Current Focus**:
-  - Contributing to **Unimart**, a comprehensive e-commerce platform with advanced features.
-  - Developing **Hackelite 2.0**, a mobile-first event discovery app for the IEEE Hacklite 2.0 competition.
-- 📚 **Academic & Professional Development**:
-  - Pursuing a **B.Sc. (Hons) in Information Technology** at the University of Moratuwa.
-  - Mastering AI and Machine Learning fundamentals through Udemy certification.
-  - Enhancing skills in **Java**, **Spring Boot**, **Python**, and full-stack development with **Next.js** and **MongoDB**.
-- 🤝 **Collaboration Opportunities**:
-  - Open to internships, open-source contributions, and hackathons in web, mobile, or AI domains.
-  - Actively participating in IEEE competitions and university projects.
-- 🌟 **Key Strengths**: Proactive learner with a knack for creative problem-solving, demonstrated through intuitive UI/UX design and a passion for video editing as a creative outlet.
+## 🎓 Academic & Professional Development
+- Pursuing **B.Sc. (Hons) in Information Technology** at the **University of Moratuwa**.  
+- Gaining practical experience through **individual and academic projects** in modern software development.  
+- Continuously improving skills in **.NET**, **Angular**, **Node.js**, **Next.js**, and **JavaScript** to build scalable and efficient solutions.  
+
+## 🤝 Collaboration Opportunities
+- Open to **team hackathons**, real-world problem-solving projects, and impactful collaborations.  
+- Successfully participated in **HackElite** and **Ballerina** competitions, delivering practical solutions to real-world challenges.  
+
+## 💡 Key Strengths
+- Proactive learner with a knack for **creative problem-solving**, demonstrated through intuitive **UI/UX design** and a passion for **video editing** as a creative outlet.  
+- Effective **team player**, combining creativity with practical experience in **UI/UX design** and collaborative projects.  
+
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP"/>
 </p>
 
 ### 🌐 Frontend Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React Native"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square" alt="Angular"/>
@@ -66,9 +67,7 @@ I am an enthusiastic **Information Technology undergraduate** at the **Universit
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt=".NET"/>
-  <img src="https://img.shields.io/badge/-Ballerina-46D0D9?logo=ballerina&logoColor=black&style=flat-square" alt="Ballerina"/>
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt="ASP.NET"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
 </p>
 
@@ -85,67 +84,187 @@ I am an enthusiastic **Information Technology undergraduate** at the **Universit
 
 ## 🌟 Featured Projects
 
-### 🛒 Tiny Treasures E-Commerce Platform
-**Overview**: A second-year university project for a 3D miniature frame-making company, showcasing my ability to build user-friendly e-commerce applications.  
-**Key Features**:
-- **Shop Page**: Dynamic filtering, pagination, and search for efficient product discovery.
-- **Product Detail Page**: High-resolution image galleries, customization options (size, color, text), related products, and wishlist functionality.
-- **Review System**: User ratings and comments with aggregated feedback to build trust.
-**Tech Stack**: Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB.  
-**Contribution**: Designed and implemented frontend interfaces, integrating backend APIs for seamless performance.  
-**Status**: Completed.  
+## 🛒 Tiny Treasures – 3D Miniature E-Commerce Platform
+
+**Overview:**  
+A second-year university project for a 3D miniature frame-making company, demonstrating my ability to build a **user-friendly, interactive e-commerce platform** with comprehensive features.
+
+**Customer Features:**  
+- Product browsing with dynamic **search**  
+- **Filter section** for customized product discovery  
+- **Pagination** for organized product listing  
+- **Product customization** (size, color, text)  
+- **Add to Wishlist** functionality  
+- **Shopping cart** with secure checkout  
+- **Review system** with user ratings and comments  
+- **High-resolution image galleries**  
+- **Advertisement section** highlighting promotional products  
+- **Related products** suggestions  
+- **Profile management** with saved addresses and order history  
+- **Coupon code discounts** and dynamic pricing  
+- **Notifications** and subscription for new products and offers  
+- **Social login** via Google, Facebook, and Instagram  
+
+**Admin Features:**  
+- **Product management:** Add, update, and remove products  
+- **Advertisement management:** Promote products with discounts  
+- **Order management:** Track and manage customer orders  
+- **Review management:** Moderate user reviews and ratings  
+
+**Tech Stack:**  Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB  
+
+**Contribution:**  
+- Developed the **Shop Page** with product browsing, pagination, filter section, and advertisement display  
+- Implemented **product customization** (size, color, text)  
+- Built **Add to Wishlist** and **Review Section** functionalities  
+- Designed **high-resolution image galleries**  
+- Integrated **admin features** for product, advertisement, order, and review management  
+
+**Status:** Completed  
 **[Repository](https://github.com/Hasini1919/3Dminiature)**
 
-### 🔐 Secure Authentication Application
-**Overview**: An independent project demonstrating my skills in building secure authentication systems, ideal for internship-level contributions.  
-**Key Features**: User registration, login, password reset, and JWT-based session management with HTTP-only cookies and Bearer tokens.  
-**Tech Stack**: Next.js, Node.js, Tailwind CSS, MongoDB.  
-**Status**: Completed.  
-**[Repository](https://github.com/Tishanth-07/Secure-auth-website)**
+## 📱 Hackelite 2.0 – Mobile-First Technical Event Management Platform
 
-### 👥 Employee Management Admin Panel
-**Overview**: A secure dashboard for managing employee data, developed to showcase my ability to handle CRUD operations and authentication.  
-**Key Features**: Admin-only access for creating, updating, viewing, and deleting records; secure authentication for data integrity.  
-**Tech Stack**: Next.js, Node.js, Tailwind CSS, MongoDB.  
-**Status**: Completed.  
-**[Repository](https://github.com/Tishanth-07/Employee-management-admin-panel)**
+**Overview:**  
+A **collaborative project** developed for the **IEEE Hacklite 2.0 Competition 2025**, ranked **Top 5 among 100+ teams**. The platform streamlines technical event discovery for students and companies, highlighting **teamwork, innovation, and practical problem-solving**.  
 
-### 🛍️ Unimart E-Commerce Platform
-**Overview**: An ongoing e-commerce project demonstrating my ability to build scalable, user-centric applications suitable for internship roles.  
-**Key Features**:
-- Comprehensive storefront: Home, Shop, Contact, About, Terms & Policy pages.
-- Secure checkout with payment gateway integration.
-- User wishlist, product comparison, and JWT-secured authentication.
-- Admin dashboard for product and user management.
-**Tech Stack**: Next.js, Node.js, Tailwind CSS, MongoDB.  
-**Status**: In progress.  
-**[Repository](https://github.com/Tishanth-07/Unimart-ecommerce)**
+**Key Features:**  
+- **Personalized Event Feed:** Recommendations based on user preferences (topics, tech stack, location)  
+- **Smart Notifications:** Alerts for registration deadlines and event updates  
+- **Event Interactions:** Like, comment, bookmark, and organizer messaging  
+- **Organizer Portal:** Event creation and management  
+- **Security:** Robust **JWT authentication**, password hashing, email verification, and **role-based access**  
+- Configurable notifications to enhance **user engagement and safety**  
 
-### 🔗 TabWallet: Secure Link Management System
-**Overview**: A collaborative WSO2 Ballerina project for secure link management, highlighting my backend development skills.  
-**Key Features**: User registration with email verification, CRUD operations for links and categories, password hashing, encryption, and admin dashboard.  
-**Tech Stack**: Angular (Frontend), Ballerina (Backend), MongoDB.  
-**Contribution**: Developed backend CRUD operations and frontend profile section.  
-**Status**: Completed.  
-**[Repository](https://github.com/hamsacumar/iwb25-419-codehat)**
+**Tech Stack:**  React Native, ASP.NET, MongoDB  
 
-### 📱 Hackelite 2.0 (IEEE Hacklite 2.0 Competition)
-**Overview**: A mobile-first platform for technical event discovery, developed for the IEEE Hacklite 2.0 competition, showcasing my teamwork and innovation.  
-**Key Features**:
-- **Personalized Event Feed**: Recommendations based on user preferences (topics, tech stack, location).
-- **Smart Notifications**: Alerts for registration deadlines and event updates.
-- **Event Interactions**: Like, comment, bookmark, and organizer messaging.
-- **Organizer Portal**: Event creation and management.
-- **Security**: Robust encryption and role-based access.
-**Tech Stack**: React Native, .NET, MongoDB.  
-**Status**: In progress (IEEE competition submission).  
+**Contribution:**  
+- Implemented **secure authentication** with JWT and password hashing  
+- Integrated **role-based access control** and email verification  
+- Developed configurable notifications for enhanced **security and user engagement**  
+
+**Status:** Completed – **Top 5 Rank**  
 **[Repository](https://github.com/hamsacumar/Hackelite2.0)**
 
-### 🔧 Green Care Assist (1st-Year Hardware Project)
-**Overview**: A first-year hardware project promoting sustainable practices through environmental monitoring, demonstrating my versatility.  
-**Key Features**: Real-time data collection, user alerts, and software integration for visualization.  
-**Tech Stack**: Hardware components (sensors, microcontrollers) with software integration.  
-**Status**: Completed.  
+
+## 🔗 TabWallet – Secure Link & Category Management Platform
+
+**Overview:**  
+A **collaborative project** for the **WSO2 Ballerina Competition 2025**, showcasing secure link management with advanced access control, data encryption, and a robust admin dashboard.  
+
+**Key Features:**  
+- User registration with **email verification**  
+- **CRUD operations** for links and categories with **encrypted data storage**  
+- **Password hashing** and secure authentication  
+- **Admin dashboard** for managing links and categories  
+- Profile management module for a seamless user experience  
+
+**Tech Stack:**  Angular (Frontend), Ballerina (Backend), MongoDB  
+
+**Contribution:**  
+- Developed **secure backend APIs** with encrypted CRUD functionality for categories and links  
+- Designed and integrated **frontend profile management module** to enhance usability  
+
+**Status:** Completed  
+**[Repository](https://github.com/hamsacumar/iwb25-419-codehat)**
+
+
+## 🚗 AutoServeX – Vehicle Service Scheduling & Appointment System
+
+**Overview:**  
+An **academic project** developed for **Enterprise Application Development 2025**, providing a comprehensive vehicle service platform with **secure online booking**, role-based dashboards, real-time chat support, and streamlined appointment and payment management.  
+
+**Key Features:**  
+- **Online Booking & Appointment Management:** Schedule vehicle services securely  
+- **Role-Based Dashboards:** Separate views for customers, service staff, and admins  
+- **Real-Time Chat Support:** Seamless communication between customers and service providers  
+- **Payment Management:** Secure handling of online payments  
+- **Microservices Architecture:** Supports scalable and modular service handling  
+
+**Tech Stack:**  Node.js, Next.js, Socket.io, MongoDB, Docker, Microservices (Spring Boot, FastAPI, ASP.NET), PostgreSQL, MS SQL  
+
+**Contribution:**  
+- Developed a **real-time chatbox** for customer support and appointment coordination  
+- Ensured **interactive and seamless communication** for users and service staff  
+
+**Status:** Ongoing  
+**[Repository](https://github.com/hamsacumar/Enterprise_Application)**
+
+## 🛍️ Unimart E-Commerce Platform
+
+**Overview:**  
+An **individual project** showcasing my ability to build a **scalable, user-centric e-commerce platform**, suitable for internship-level contributions and real-world applications.
+
+**Key Features:**  
+- **Comprehensive storefront**: Home, Shop, Contact, About, Terms & Policy pages  
+- **Secure checkout** with payment gateway integration  
+- **User wishlist, product comparison**, and **JWT-secured authentication**  
+- **Admin dashboard** for product and user management  
+
+**Tech Stack:**  Next.js, Node.js, Tailwind CSS, MongoDB  
+
+**Contribution:**  
+- Designed and implemented **frontend and backend functionality**  
+- Integrated **secure authentication** and **admin dashboard features**  
+- Built **user-centric features** including wishlist, product comparison, and dynamic product displays  
+
+**Status:** In Progress  
+**[Repository](https://github.com/Tishanth-07/Unimart-ecommerce)**
+
+
+## 🔐 Secure Authentication Application
+
+**Overview:**  
+An **individual project** showcasing my ability to build **secure authentication systems**, demonstrating readiness for internship-level contributions in web development and security.
+
+**Key Features:**  
+- User **registration** and **login**  
+- **Password reset** functionality  
+- **JWT-based session management** with **HTTP-only cookies** and **Bearer tokens**  
+- Secure handling of user authentication and authorization  
+
+**Tech Stack:**   Next.js, Node.js, Tailwind CSS, MongoDB  
+
+**Contribution:**  
+- Designed and implemented the complete **frontend and backend authentication flow**  
+- Ensured **security best practices** in token handling and session management  
+
+**Status:** Completed  
+**[Repository](https://github.com/Tishanth-07/Secure-auth-website)**
+
+
+## 👥 Employee Management Admin Panel
+
+**Overview:**  
+An **individual project** demonstrating my ability to build a **secure admin dashboard** for managing employee data, emphasizing CRUD operations and authentication best practices.
+
+**Key Features:**  
+- **Admin-only access** for creating, updating, viewing, and deleting employee records  
+- **Secure authentication** to ensure data integrity and role-based access  
+- Intuitive interface for efficient employee management  
+
+**Tech Stack:**  Next.js, Node.js, Tailwind CSS, MongoDB  
+
+**Contribution:**  
+- Designed and implemented the **full frontend and backend** functionality  
+- Ensured **data security** and proper **access control**  
+
+**Status:** Completed  
+**[Repository](https://github.com/Tishanth-07/Employee-management-admin-panel)**
+
+## 🌱 Green Care Assist – Environmental Monitoring & Sustainability Project
+
+**Overview:**  
+A **first-year collaborative hardware project** promoting **sustainable practices** through real-time environmental monitoring. The project demonstrates versatility in combining hardware and software for practical solutions.  
+
+**Key Features:**  
+- **Real-Time Data Collection:** Monitors environmental parameters using sensors  
+- **Automated Alerts:** Notifies users of threshold breaches for proactive action  
+- **Software Integration:** Visualizes collected data for easy analysis and decision-making  
+
+**Tech Stack:**  Arduino, ESP32, Sensors, Microcontrollers, Automated Alerts, Software Integration  
+
+**Status:** Completed  
 **[Repository](https://github.com/Tishanth-07/Green-Care-Assist)**
 
 ---
@@ -165,11 +284,21 @@ I am an enthusiastic **Information Technology undergraduate** at the **Universit
   <img src="https://github-profile-trophy.vercel.app/?username=Tishanth-07&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
-- **IEEE Hacklite 2.0 Competition**: Active contributor to a mobile-first event discovery platform.
-- **Udemy AI Certification**: In progress, mastering AI and Machine Learning fundamentals.
-- **University of Moratuwa**: Strong academic performance in Information Technology coursework.
+### Achievements
+- **IEEE Hacklite 2.0 Competition (2025):** Ranked **Top 5 out of 100+ teams**, contributed to a mobile-first event discovery platform.  
+- **WSO2 Ballerina Competition (2025):** Collaborative project delivering practical solutions for secure link management.  
+- **Moraspirit (2024–2025):** Member of the Photography Pillar.  
+- **National Cadet Corps (NCC) – Army (2017):** Participated in leadership and discipline programs.  
+- **National Band Cadet Competition, Sri Lanka (2019):** Represented school in the band team.  
 
----
+### Certifications
+- **Web Design for Beginners** – Open Learning Platform, University of Moratuwa  
+- **Python for Beginners** – Open Learning Platform, University of Moratuwa  
+- **Introduction to Docker** – Simplilearn *(In Progress)*  
+- **C# 12 Mastery: From Console Apps to Web Development** – Udemy *(In Progress)*  
+- **Introduction to DevOps** – Great Learning *(In Progress)*  
+- **Udemy AI Certification** – Mastering AI and Machine Learning fundamentals *(In Progress)*
+
 
 ## 🌍 Let’s Connect
 
@@ -190,5 +319,6 @@ I am an enthusiastic **Information Technology undergraduate** at the **Universit
 
 <p align="center">
   <strong>🚀 Eager to Launch My Career!</strong><br/>
-  As an aspiring Software Engineer, I’m passionate about applying my skills to real-world challenges and learning from industry experts. I’m seeking internship opportunities to contribute to innovative projects and grow within a dynamic IT team. Let’s connect to discuss how I can add value to your organization!
+  I am an aspiring **Software Engineer** passionate about applying my skills to real-world challenges. Actively seeking **internship opportunities** to contribute to innovative projects, enhance my expertise, and grow within a dynamic IT team. Let’s connect and explore how I can add value to your organization!
 </p>
+
