@@ -19,7 +19,7 @@
 
 ---
 <h1 align="center">Tishanth Sivakumar</h1>
-<h2 align="center">Software Engineer Internship Enthusiast</h2>
+<h2 align="center">Aspiring Software Engineer | Open to Internship Opportunities</h2>
 
 I am an enthusiastic Information Technology undergraduate at the University of Moratuwa, passionate about developing innovative and scalable web and mobile applications. With hands-on experience in building secure, user-centric, and modern solutions through academic and collaborative projects, I strive to combine creativity with technical precision.
 
