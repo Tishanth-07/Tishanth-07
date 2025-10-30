@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Tishanth Sivakumar</strong></h1>
-<h2 align="center">Aspiring Software Engineer | Open to Internship Opportunities</h2>
+<h2 align="center">Aspiring Software Engineer | Focused on Full Stack & Backend Development | Passionate About Building Scalable and Efficient Applications | Open to Internships</h2>
 
 <p align="center">
   🎓 Information Technology Undergraduate at <strong>University of Moratuwa</strong> <br/>
