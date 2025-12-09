@@ -76,15 +76,6 @@
 
 ---
 
-## 📊 Academic Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tishanth-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=10B981&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tishanth-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🧭 Profile Summary
 
 <p align="center">
